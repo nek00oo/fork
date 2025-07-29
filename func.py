@@ -1,4 +1,5 @@
 def calculate_area(length, width):
+    print(length)
     return length * width
 
 if __name__ == "__main__":
